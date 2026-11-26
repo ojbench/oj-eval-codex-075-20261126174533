@@ -19,3 +19,7 @@ included the Git URL itself as C++ header source. It consumes the submitted
 code field directly despite the generic Git instructions in README.md.
 Use the client's `submit --problem-id 1059 --source-file str.hpp` option for
 this header problem, after sourcing `.env` and providing the token as usual.
+
+Submission 879526 submitted `str.hpp` directly and was Accepted with 100/100.
+Reported runtime: 634 ms. Reported memory: 47,554,560 bytes.
+Total submissions used: 2 of 5.
